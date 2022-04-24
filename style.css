@@ -1,0 +1,12 @@
+:root {
+    --primary: #0d6efd;
+}
+
+.top {
+    background-color: var(--primary);
+    border-bottom: 3px solid black ;
+}
+
+.bi {
+    padding-right: 10px;
+}
